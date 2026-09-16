@@ -27,7 +27,7 @@ function Recipe() {
         padding: "20px",
       }}
     >
-      {/* Card 1 */}
+      {/* chicken noodles soup 1 */}
       <Card>
         <img
           src="chicken noodles soup.jpg"
@@ -49,7 +49,7 @@ function Recipe() {
         </div>
       </Card>
 
-      {/* Card 2 */}
+      {/* egg salad 2 */}
       <Card>
         <img
           src="egg salad.jpg"
@@ -69,7 +69,7 @@ function Recipe() {
         </div>
       </Card>
 
-      {/* Card 3 */}
+      {/* Oat Clusters 3*/}
       <Card>
         <img
           src="oat clusters.jpg"
